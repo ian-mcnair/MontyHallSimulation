@@ -1,4 +1,4 @@
-# Monty Hall Simulation and Simple Visualization
+# Monty Hall Simulation and Simple Visualizations
 The Monty Hall Problem is a classic problem within the Bayesian Statistics Realm. Solving this problem analytically with Bayes Rule can be confusion for those new to it, but the problem can be understood without it. Coding the problem definently helps those to understand better how switching instead of staying could result in a higher probability.
 
 ### Description of the Monty Hall Problem
